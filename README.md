@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/minseok-kim-010756146/)](https://www.linkedin.com/in/minseok-kim-010756146/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hello.francis0704@gmail.com)](mailto:hello.francis0704@gmail.com)
 
-## Interest
+## Interest 😄
 - AI Research ( Computer Vision )
 - Self-driving ( Interface, Path Planning, Robot Motion Control )
 - Security ( Fingerprint Recognition, Face Recognition, Diagnostic Data )
