@@ -15,9 +15,10 @@ Here are some ideas to get you started:
 -->
 
 ![alt 2번이미지](/img-profile.png)  
-
+<!--
 - I’m currently working as a research intern at the Future Mobility Research Center.
 - I'm currently developing a Human Machine Interface for Self-Driving Car.
+-->
 - How to reach me: hello.francis0704@gmail.com
 
   [![Resume Badge](https://img.shields.io/badge/-About%20Me-blueviolet?&link=https://BupyeongHealer.github.io)](https://BupyeongHealer.github.io/)
@@ -26,9 +27,7 @@ Here are some ideas to get you started:
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hello.francis0704@gmail.com)](mailto:hello.francis0704@gmail.com)
 
 ## Interest 😄
-- AI Research ( Computer Vision )
+- AI Research ( Computer Vision, Robot Vision )
 - Self-driving ( Interface, Path Planning, Robot Motion Control )
-- Security ( Fingerprint Recognition, Face Recognition, Diagnostic Data )
-
 
 ![BupyeongHealer's github stats](https://github-readme-stats.vercel.app/api?username=BupyeongHealer&show_icons=true)
