@@ -28,6 +28,5 @@ Here are some ideas to get you started:
 
 ## Interest 😄
 - AI Research ( Computer Vision, Robot Vision )
-- Self-driving ( Interface, Path Planning, Robot Motion Control )
 
 ![BupyeongHealer's github stats](https://github-readme-stats.vercel.app/api?username=BupyeongHealer&show_icons=true)
