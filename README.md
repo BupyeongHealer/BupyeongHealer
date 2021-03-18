@@ -12,9 +12,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
 ![alt 2번이미지](/img-profile.png)  
+-->
+
+
+
 <!--
 - I’m currently working as a research intern at the Future Mobility Research Center.
 - I'm currently developing a Human Machine Interface for Self-Driving Car.
