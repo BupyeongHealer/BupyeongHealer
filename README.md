@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - I’m currently working as a research intern at the Future Mobility Research Center.
 - I'm currently developing a Human Machine Interface for Self-Driving Car.
 -->
-- How to reach me: hello.francis0704@gmail.com
+- How to reach me: hello96min@unist.ac.kr
 
   [![Resume Badge](https://img.shields.io/badge/-About%20Me-blueviolet?&link=https://BupyeongHealer.github.io)](https://BupyeongHealer.github.io/)
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://hello-francis.tistory.com/)](https://hello-francis.tistory.com/)
