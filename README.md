@@ -30,6 +30,6 @@ Here are some ideas to get you started:
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hello.francis0704@gmail.com)](mailto:hello.francis0704@gmail.com)
 
 ## Interest 😄
-- AI Research ( Computer Vision, Robot Vision )
+- AI Research ( 3D Vision )
 
 ![BupyeongHealer's github stats](https://github-readme-stats.vercel.app/api?username=BupyeongHealer&show_icons=true)
