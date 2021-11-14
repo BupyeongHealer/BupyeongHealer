@@ -27,7 +27,7 @@ Here are some ideas to get you started:
   [![Resume Badge](https://img.shields.io/badge/-About%20Me-blueviolet?&link=https://BupyeongHealer.github.io)](https://BupyeongHealer.github.io/)
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://hello-francis.tistory.com/)](https://hello-francis.tistory.com/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/minseok-kim-010756146/)](https://www.linkedin.com/in/minseok-kim-010756146/)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hello.francis0704@gmail.com)](mailto:hello.francis0704@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hello.min1996@gmail.com)](mailto:hello.min1996@gmail.com)
 
 ## Interest 😄
 - AI Research ( 3D Vision )
