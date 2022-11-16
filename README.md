@@ -1,4 +1,4 @@
-## Hi, I'm Milner 👋
+## Hi, I'm Minseok 👋
 <!--
 **BupyeongHealer/BupyeongHealer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
