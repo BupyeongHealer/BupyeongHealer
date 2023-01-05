@@ -34,4 +34,4 @@ Here are some ideas to get you started:
 ## Interest 😄
 - AI Research ( 3D Vision )
 
-![BupyeongHealer's github stats](https://github-readme-stats.vercel.app/api?username=BupyeongHealer&show_icons=true)
+<!-- ![BupyeongHealer's github stats](https://github-readme-stats.vercel.app/api?username=BupyeongHealer&show_icons=true) -->
