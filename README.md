@@ -31,6 +31,6 @@ Here are some ideas to get you started:
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbupyeonghealer&count_bg=%23494949&title_bg=%23928B8B&icon=&icon_color=%23845757&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
 
 ## Interest 😄
-- AI Research ( 3D Vision )
+- AI Research ( 3D Vision, Generative Model )
 
 <!-- ![BupyeongHealer's github stats](https://github-readme-stats.vercel.app/api?username=BupyeongHealer&show_icons=true) -->
