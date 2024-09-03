@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - I’m currently working as a research intern at the Future Mobility Research Center.
 - I'm currently developing a Human Machine Interface for Self-Driving Car.
 -->
-- How to reach me: hello96min@unist.ac.kr
+- How to reach me: hello.min0704@gmail.com
 
   [![Resume Badge](https://img.shields.io/badge/-About%20Me-blueviolet?&link=https://BupyeongHealer.github.io)](https://BupyeongHealer.github.io/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/minseok-kim-010756146/)](https://www.linkedin.com/in/minseok-kim-010756146/)
@@ -31,6 +31,6 @@ Here are some ideas to get you started:
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbupyeonghealer&count_bg=%23494949&title_bg=%23928B8B&icon=&icon_color=%23845757&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
 
 ## Interest 😄
-- AI Research ( 3D Vision, Generative Model )
+- AI Research ( Generative Model, Image/text-to-Video, 3D Vision )
 
 <!-- ![BupyeongHealer's github stats](https://github-readme-stats.vercel.app/api?username=BupyeongHealer&show_icons=true) -->
